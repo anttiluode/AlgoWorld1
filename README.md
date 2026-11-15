@@ -1,5 +1,7 @@
 # AlgoWorld 1
 
+![pic](pic.png)
+
 **[Open the world →](https://anttiluode.github.io/AlgoWorld1/)**
 
 A procedural world you explore by zooming. Each depth is a different place run by a different law, and the zoom closes into a loop: inside the last level is the first one again.
